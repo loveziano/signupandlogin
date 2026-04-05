@@ -48,3 +48,7 @@ Visit `http://localhost:3000` in your browser to access the application.
 
 ## Contribution
 Feel free to submit pull requests or open issues for suggestions and improvements!
+
+## Author
+
+Created by loveziano
